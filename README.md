@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=takuyaktoyokawa&show_icons=true&bg_color=113A5D&icon_color=FF7A8A&border_color=FF7A8A&title_color=FF7A8A&text_color=F9F9F9)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=takuyaktoyokawa&show_icons=true&hide_title=false&bg_color=113A5D&icon_color=FF7A8A&border_color=FF7A8A&title_color=FF7A8A&text_color=F9F9F9)
