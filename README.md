@@ -52,7 +52,9 @@ Allow students to see and book appointments to requested interviewer.
 
 - Using Redux and the Stripe API for frontend, as well as learning Prisma and Auth0 on the backend.
 - Experimenting with more complex UI states, using Redux and Framer Motion for cool animations!
-- Looking into Game dev into the future, maybe Godot / Unity + Rust or C++? 
+- Looking into Game dev into the future, maybe Godot or Unity, and Rust or C++?
+
+  - Planning to look even more complex algorithms and data structures along with learning game dev. 
 
 ---
 
