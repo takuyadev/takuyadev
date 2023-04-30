@@ -1,4 +1,4 @@
-![github](https://user-images.githubusercontent.com/55810680/235334604-319f854e-8b49-48f3-833a-c1d313edbccd.png)
+![github](https://github.com/takuyadev/takuyadev/blob/main/github.png?raw=true)
 ## 🤗 Hi there, my name's Takuya!
 
 Thanks for stopping by! You'll see lots of projects ranging from personal projects, or chaotic test repositories from self-directed learning. Either ways, I hope you find interest in any of the things that I create! Alongside Lighthouse Labs, I'm currently working on [**Kuripedia & KuriAPI**](https://github.com/takuyadev/kuriapi), so please check it out when you have the chance! 
