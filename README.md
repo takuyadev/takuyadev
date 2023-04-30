@@ -1,4 +1,4 @@
-<iframe src="https://drive.google.com/file/d/1_XUh6J7Q572lGNkPQ2WlSNXLv9huBEKz/preview" width="640" height="480" allow="autoplay"></iframe>
+![github](https://user-images.githubusercontent.com/55810680/235334604-319f854e-8b49-48f3-833a-c1d313edbccd.png)
 ### 🤗 Hi, thanks for stopping by!
 
 I'm a Fullstack developer, with previous experience as a UX/UI Designer at ScopeMedia. 
