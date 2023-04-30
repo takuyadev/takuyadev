@@ -1,6 +1,4 @@
-
-[header](https://drive.google.com/file/d/1_XUh6J7Q572lGNkPQ2WlSNXLv9huBEKz/view?usp=sharing)
-
+<iframe src="https://drive.google.com/file/d/1_XUh6J7Q572lGNkPQ2WlSNXLv9huBEKz/preview" width="640" height="480" allow="autoplay"></iframe>
 ### 🤗 Hi, thanks for stopping by!
 
 I'm a Fullstack developer, with previous experience as a UX/UI Designer at ScopeMedia. 
