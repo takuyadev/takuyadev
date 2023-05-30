@@ -13,6 +13,9 @@ Thanks for stopping by! You'll see lots of projects ranging from personal projec
   <a href="mailto:takuya.k.toyokawa@protonmail.com?subject=From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <br>
 
+## 📟 Gist
+Outside of my main Github pages, I also frequently do some LeetCode questions over in my [**Gist**](https://gist.github.com/takuyadev) repository in my spare time. Feel free to browse my solutions!
+
 ## 🖥️ Techstack
 
 **Frontend**: TypeScript, React.js, React Native, Next.js, jQuery, TailwindCSS, SASS, Styled Components, Framer Motion, BootStrap, axios
