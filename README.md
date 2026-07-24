@@ -1,11 +1,11 @@
 ![github](https://github.com/takuyadev/takuyadev/blob/main/github.png?raw=true)
 ## 🤗 Hi there, my name's Takuya!
 
-Thanks for stopping by! You'll see lots of projects ranging from personal projects, or chaotic test repositories from self-directed learning. Either ways, I hope you find interest in any of the things that I create! Alongside Lighthouse Labs, I'm currently working on [**Kuripedia & KuriAPI**](https://github.com/takuyadev/kuriapi), so please check it out when you have the chance! 
+Thanks for stopping by! You'll see lots of projects ranging from personal projects, or chaotic test repositories from self-directed learning. Either ways, I hope you find interest in any of the things that I create! 
 
-- 📜 Currently attending Lighthouse Labs Web Development Program, graduating in May 2023
+- ✨ Previously Full Stack Developer at Finnovate.io
+- 📜 Graduated from Lighthouse Labs Web Development Program
 - 🎓 Graduated from British Columbia Institute of Technology from the Digital Design and Development Program
-- ✨ Previously Lead UX/UI Designer at ScopeMedia
 - 🎮 Interested in eSports (always open for eSport talk!)
 <br>
   <a href="https://takuyaktoyokawa.ca"><img src="https://img.shields.io/badge/portfolio-blue.svg?&style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Portfolio"/></a>&nbsp;
