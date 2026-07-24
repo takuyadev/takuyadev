@@ -47,17 +47,15 @@ Allow students to see and book appointments to requested interviewer.
 
 ## 🌱 Currently learning
 
-- React Native
-- Ruby on Rails
-- Redux Toolkit
+- Go
+- Swift
+- Godot
+- C
 
 ## ❓ What's next?
-
-- Using Redux and the Stripe API for frontend, as well as learning Prisma and Auth0 on the backend.
-- Experimenting with more complex UI states, using Redux and Framer Motion for cool animations!
-- Looking into Game dev into the future, maybe Godot or Unity, and Rust or C++?
-
-  - Planning to look even more complex algorithms and data structures along with learning game dev. 
+- Tighten up my understanding of Data Strucutres and Algorithms
+- Widen my mobile application knowledge in Swift
+- Challenge low-level development with C
 
 ---
 
