@@ -53,8 +53,3 @@ Allow students to see and book appointments to requested interviewer.
 - Tighten up my understanding of Data Strucutres and Algorithms
 - Widen my mobile application knowledge in Swift
 - Challenge low-level development with C
-
----
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=takuyadev&show_icons=true&hide_title=true&hide_border=true&bg_color=113A5D&icon_color=FF7A8A&title_color=FF7A8A&text_color=F9F9F9)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takuyadev&layout=compact&hide_title=true&hide_border=true&card_width=468px&bg_color=113A5D&icon_color=FF7A8A&title_color=FF7A8A&text_color=F9F9F9)](https://github.com/takuyadev/github-readme-stats)
